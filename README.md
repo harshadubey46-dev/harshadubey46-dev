@@ -41,7 +41,6 @@ Git | GitHub | MySQL
 
 🛠 Tech: HTML, CSS, JavaScript / SQLite / JAVAFX
 
-👉 https://github.com/your-expense-tracker
 
 ---
 
@@ -53,7 +52,6 @@ Git | GitHub | MySQL
 
 🛠 Tech: Python, Selenium / APIs
 
-👉 https://github.com/your-instabot
 
 ---
 
