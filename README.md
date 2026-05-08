@@ -20,10 +20,10 @@
 ## 💙 Tech Stack
 
 **Languages:**
-C | C++ | Java | Python | JavaScript | PHP
+C | C++ | Java | Python | PHP
 
 **Web:**
-HTML | CSS | Django
+HTML | CSS | Django | Javascript 
 
 **Tools:**
 Git | GitHub | MySQL
