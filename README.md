@@ -10,7 +10,7 @@
 
 ## 🌸 About Me
 
-* 🎓 MCA Student aiming for **Software Developer roles**
+* 🎓 MCA Student aiming for **Software Developer roles** , **Data Science role**
 * 💻 Skilled in **Web Development + Programming**
 * 🤖 Interested in **Automation & Problem Solving**
 * ⚡ Focused on building **real, practical projects**
