@@ -1,104 +1,83 @@
-<div align="center">
+<!-- 🌸💙 CLEAN PASTEL README - REAL PROJECTS -->
 
-# 💸 Expense Tracker FX
+<h1 align="center">Hi 👋, I'm Harsha Dubey</h1>
 
-### 📊 Smart Expense Management System built with JavaFX
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaFX-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Automation+Enthusiast;Focused+on+Building+Real+Projects" />
+</p>
 
 ---
 
-# ✨ Features
+## 🌸 About Me
 
-🚀 User Login System  
-💰 Add / Update / Delete Expenses  
-📂 Expense Categorization  
-📊 Expense Analytics  
-🗄️ SQLite Database Integration  
-🎨 Modern JavaFX Interface  
-⚡ Fast & Lightweight Desktop Application  
+* 🎓 MCA Student aiming for **Software Developer roles** , **Data Science role**
+* 💻 Skilled in **Web Development + Programming**
+* 🤖 Interested in **Automation & Problem Solving**
+* ⚡ Focused on building **real, practical projects**
 
 ---
 
-# 🛠️ Technologies Used
+## 💙 Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| ☕ Java | Core Logic |
-| 🎨 JavaFX | GUI |
-| 🗄️ SQLite | Database |
-| 🔗 JDBC | Database Connectivity |
+**Languages:**
+C | C++ | Java | Python | PHP
 
----
+**Web:**
+HTML | CSS | Django | Javascript 
 
-# 📂 Project Structure
-
-```bash
-ExpenseTrackerFX/
-│
-├── src/
-├── resources/
-├── README.md
-├── .gitignore
-├── .project
-└── .classpath
-```
+**Tools:**
+Git | GitHub | MySQL
 
 ---
 
-# 🚀 How To Run
+## 📌 Featured Projects
 
-## 1️⃣ Clone Repository
+### 💰 Expense Tracker
 
-```bash
-git clone https://github.com/harshadubey46-dev/YOUR_REPO_NAME.git
-```
+* Developed a web-based application to manage daily expenses
+* Tracks income, expenses, and categories
+* Helps users organize and monitor spending patterns
+* Clean UI focused on usability
 
-## 2️⃣ Open Project
+🛠 Tech: HTML, CSS, JavaScript / SQLite / JAVAFX
 
-Import the project into:
-
-- Eclipse
-- IntelliJ IDEA
-- VS Code
-
-## 3️⃣ Run Application
-
-Execute:
-
-```bash
-ExpenseTrackerFX.java
-```
 
 ---
 
-# 🌟 Future Enhancements
+### 🤖 InstaBot
 
-- 🌙 Dark Mode
-- ☁️ Cloud Backup
-- 📈 Advanced Analytics
-- 📄 Monthly Reports
-- 🤖 AI Expense Insights
+* Built an automation bot for Instagram actions
+* Automates tasks like following, liking, or data extraction
+* Demonstrates scripting and automation concepts
 
----
+🛠 Tech: Python, Selenium / APIs
 
-# 👨‍💻 Developer
-
-## Harsha Dubey
-
-<a href="https://github.com/harshadubey46-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-### ⭐ If you like this project, give it a star ⭐
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadubey46-dev&theme=tokyonight&hide_border=true&ring=F9A8D4&fire=93C5FD" height="150"/>
+</p>
 
-</div>
+---
+
+## 🌈 Current Focus
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=93C5FD&center=true&width=600&lines=Improving+DSA;Building+Better+Projects;Learning+System+Design" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshadubey46-dev&color=F9A8D4"/>
+</p>
+
+---
+
+💖 *“Focused on building real skills, not just projects.”*
