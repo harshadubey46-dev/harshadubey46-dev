@@ -1,0 +1,35 @@
+.login-bg {
+    -fx-background-color: linear-gradient(to bottom right, #667eea, #764ba2);
+}
+
+.login-card {
+    -fx-background-color: rgba(255,255,255,0.15);
+    -fx-background-radius: 20;
+    -fx-padding: 30;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 20, 0, 0, 10);
+}
+
+.title {
+    -fx-font-size: 24;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.text-field, .password-field {
+    -fx-background-radius: 10;
+    -fx-padding: 10;
+}
+
+.button {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #333;
+    -fx-background-radius: 10;
+}
+
+.button:hover {
+    -fx-background-color: #eeeeee;
+}
+
+.label {
+    -fx-text-fill: white;
+}
