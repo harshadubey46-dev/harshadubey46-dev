@@ -54,7 +54,7 @@ Git | GitHub | MySQL
 
 🛠 Tech: Java, JavaFX, SQL
 
-🔗 **Project:** [Expense Tracker FX](YOUR_GITHUB_REPOSITORY_LINK)
+🔗 **Project:** [Expense Tracker FX](https://github.com/harshadubey46-dev/Expense-TrackerFX)
 ---
 
 ## 📊 GitHub Stats
