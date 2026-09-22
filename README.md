@@ -45,6 +45,16 @@ Git | GitHub | MySQL
 
 🔗 **Project:** [AI Student Query Chatbot](https://github.com/harshadubey46-dev/AI-Student-Query-Chatbot)
 
+### 💰 Expense Tracker FX
+
+* Developed a desktop-based expense management application
+* Allows users to record and organize daily expenses
+* Helps track spending through categorized expense records
+* Designed with a simple interface focused on usability and easy expense management
+
+🛠 Tech: Java, JavaFX, SQL
+
+🔗 **Project:** [Expense Tracker FX](YOUR_GITHUB_REPOSITORY_LINK)
 ---
 
 ## 📊 GitHub Stats
