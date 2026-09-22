@@ -32,26 +32,18 @@ Git | GitHub | MySQL
 
 ## 📌 Featured Projects
 
-### 💰 Expense Tracker
+### 🤖 AI Student Query Chatbot
 
-* Developed a web-based application to manage daily expenses
-* Tracks income, expenses, and categories
-* Helps users organize and monitor spending patterns
-* Clean UI focused on usability
+* Developed an interactive web-based chatbot for answering common student-related queries
+* Uses **Natural Language Processing (NLP)** and pattern matching to identify user intent
+* Supports queries related to **courses, fees, admission, exams, attendance, scholarships, timings, and contact information**
+* Handles differently worded queries through text preprocessing and pattern matching
+* Includes controlled fallback responses for unsupported or unrelated questions
+* Built a clean conversational interface with **quick-question buttons and chat history**
 
-🛠 Tech: HTML, CSS, JavaScript / SQLite / JAVAFX
+🛠 Tech: Python, NLTK, Streamlit, JSON, NLP, Pattern Matching
 
-
----
-
-### 🤖 InstaBot
-
-* Built an automation bot for Instagram actions
-* Automates tasks like following, liking, or data extraction
-* Demonstrates scripting and automation concepts
-
-🛠 Tech: Python, Selenium / APIs
-
+🔗 **Project:** [AI Student Query Chatbot](https://github.com/harshadubey46-dev/AI-Student-Query-Chatbot)
 
 ---
 
